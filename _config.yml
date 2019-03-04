@@ -16,9 +16,9 @@ sass:
   sass_dir: _sass
 
 nav:
-  - name: "首页"
-    link: "/"
-  - name: "Resume"
-    link: "resume.pdf"
-  - name: "Contact"
-    link: "contact"
+  - name: "理论"
+    link: "/#theory"
+  - name: "前景"
+    link: "/#prospect"
+  - name: "坚持"
+    link: "/#keep"
