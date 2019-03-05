@@ -18,7 +18,5 @@ sass:
 nav:
   - name: "理论"
     link: "/#theory"
-  - name: "前景"
-    link: "/#prospect"
   - name: "坚持"
     link: "/#keep"
